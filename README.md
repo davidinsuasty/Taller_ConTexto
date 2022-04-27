@@ -21,3 +21,8 @@ Tutorial de las principales funcionalidades de la librería [ConTexto](https://p
     2. Term Frequency - Inverse Document Frequency (TF-IDF)
     3. Word2Vec
 9. Comparación de documentos
+
+## Contenido
+:open_file_folder: [`entrada/`](https://github.com/davidinsuasty/Taller_ConTexto/tree/main/entrada):  Se encuentran los insumos necesarios para correr el taller.
+
+:notebook: [`Taller_contexto.ipynb`](https://github.com/davidinsuasty/Taller_ConTexto/blob/main/Taller_contexto.ipynb): Cuaderno de Jupyter del taller
